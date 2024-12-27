@@ -9,8 +9,11 @@
 #
 
 <p align="center">Estudante de Inteligencia Artificial pela Cruzeiro do Sul
+   <br>
   Desenvolvedor Backend Laravel/VueJS pela Gransys.
+   <br>
   Com uma sólida experiência em rotinas Desenvolvimento de rotinas de automação ETL e análise de dados com python.
+   <br>
   Apaixonado por jogos e desenvolvimento fullstack/mobile.
 #
 
