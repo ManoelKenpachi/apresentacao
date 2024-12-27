@@ -6,16 +6,19 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+   <h2 style="color: #4CAF50; font-weight: bold;">Sobre Mim</h2>
+   <p style="margin: 10px 0; font-size: 1.1em;">
+      Estudante de <strong>Inteligência Artificial</strong> pela <em>Cruzeiro do Sul</em>, com sólida experiência em desenvolvimento backend e análise de dados.
+   </p>
+   <p style="margin: 10px 0; font-size: 1.1em;">
+      Atualmente, trabalho como <strong>Desenvolvedor Backend</strong> na <em>Gransys</em>, especializado em Laravel e Vue.js. Tenho ampla experiência no desenvolvimento de rotinas de automação ETL e análise de dados com Python.
+   </p>
+   <p style="margin: 10px 0; font-size: 1.1em;">
+      Sou apaixonado por tecnologia, jogos e pelo desenvolvimento fullstack e mobile, sempre buscando expandir meus conhecimentos e criar soluções inovadoras.
+   </p>
+</div>
 
-<p align="center">Estudante de Inteligencia Artificial pela Cruzeiro do Sul
-   <br>
-  Desenvolvedor Backend Laravel/VueJS pela Gransys.
-   <br>
-  Com uma sólida experiência em rotinas Desenvolvimento de rotinas de automação ETL e análise de dados com python.
-   <br>
-  Apaixonado por jogos e desenvolvimento fullstack/mobile.
-#
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
