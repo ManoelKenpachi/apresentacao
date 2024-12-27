@@ -29,7 +29,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/manoelkenpachi/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack</h3>
 
 <div align="left">
   
