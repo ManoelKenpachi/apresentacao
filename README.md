@@ -25,7 +25,7 @@
 
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png)" height="25" alt="PYTHON LOGO"  />
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" height="25" alt="PYTHON LOGO"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
