@@ -69,7 +69,7 @@
   </div>
 </div>
 
-<div style="text-align: center; align="center"; margin-top: 2rem;">
+<div align="center" style="text-align: center; margin-top: 2rem;">
   <h3>GitHub Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoelKenpachi&theme=jolly&hide_border=true" alt="GitHub streak">
 </div>
