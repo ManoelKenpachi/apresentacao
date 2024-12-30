@@ -8,6 +8,15 @@
   <img src="./src/header-gif.gif" alt="" width="600">
 </div>
 
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManoelKenpachi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=blue&text_color=FFF&border_radius=3&border_color=36123c&icon_color=blue&theme=jolly" alt="GitHub stats">
+  <a href="https://github.com/ManoelKenpachi/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManoelKenpachi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=blue&hide=html,scss,less&bg_color=000&text_color=blue&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 2rem; margin-top: 2rem;">
   <div style="width: 60%; font-family: 'Monteserrat', sans-serif; line-height: 1.6; color: #333;">
     <h2 style="color: white; font-weight: bold; margin-bottom: 1rem; background-color: #28a745; padding: 1rem; border-radius: 5px; text-align: center;">Sobre Mim</h2>
@@ -60,16 +69,7 @@
   </div>
 </div>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManoelKenpachi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=blue&text_color=FFF&border_radius=3&border_color=36123c&icon_color=blue&theme=jolly" alt="GitHub stats">
-  <a href="https://github.com/ManoelKenpachi/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManoelKenpachi&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=blue&hide=html,scss,less&bg_color=000&text_color=blue&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-<div style="text-align: center; align=center; margin-top: 2rem;">
+<div style="text-align: center; align="center"; margin-top: 2rem;">
   <h3>GitHub Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoelKenpachi&theme=jolly&hide_border=true" alt="GitHub streak">
 </div>
