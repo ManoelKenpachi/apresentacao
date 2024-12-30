@@ -9,9 +9,6 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 2rem; margin-top: 2rem;">
-  <div style="width: 40%;">
-    <img src="https://github.com/ManoelKenpachi.png" alt="Foto de perfil" width="200" style="border-radius: 50%;">
-  </div>
   <div style="width: 60%; font-family: 'Monteserrat', sans-serif; line-height: 1.6; color: #333;">
     <h2 style="color: white; font-weight: bold; margin-bottom: 1rem; background-color: #28a745; padding: 1rem; border-radius: 5px; text-align: center;">Sobre Mim</h2>
     <p style="margin: 10px 0; font-size: 1.1em; color:white; background:">
